@@ -1,9 +1,9 @@
 === Honrix Addons ===
 Contributors: honarsystems
 Tags: addon, team member, elementor, wordpress, honrix
-Requires at least: 4.6
-Tested up to: 4.7
-Stable tag: 4.3
+Requires at least: 5
+Tested up to: 6.0.2
+Stable tag: 1.0.0
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
